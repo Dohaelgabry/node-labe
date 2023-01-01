@@ -1,0 +1,6 @@
+[
+  { "id": "0","product": "1", "name": "oil", "price": "100" },
+  { "id": "1","product": "2", "name": "Pasta", "price": "50" },
+  { "id": "2","product": "3", "name": "chocolate", "price": "40" },
+  { "id": "3","product": "4", "name": "Flour", "price": "30" }
+]
