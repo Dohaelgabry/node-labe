@@ -25,8 +25,6 @@ app.get("/products/:id", function (req, res) {
       res.status(404).send("not found");
     } else if (index == x) {
       res.send(product[x]);
-      // res.send(JSON.parse(product[x]));
-      // res.send(JSON.stringify(product[x]));
     }
   }
 });

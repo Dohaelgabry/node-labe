@@ -1,0 +1,26 @@
+[
+  {
+    "user": "Doha",
+    "firstName": "Doha",
+    "password": "1000"
+  },
+  {
+    "user": "Doaa",
+    "firstName": "Doaa",
+    "password": "2000"
+  },
+  {
+    "user": "may",
+    "password": "3000"
+  },
+  {
+    "user": "Ahmed",
+    "firstName": "Ahmea",
+    "password": "400"
+  },
+  {
+    "user": "sama",
+    "firstName": "sama",
+    "password": "2000"
+  }
+]
